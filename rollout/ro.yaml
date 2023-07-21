@@ -1,4 +1,4 @@
-testapiVersion: argoproj.io/v1alpha1
+test2testapiVersion: argoproj.io/v1alpha1
 kind: Rollout
 metadata:
   name: apache-ro
